@@ -7,3 +7,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 cout<<"hello,world";
 ```
+- [ ] Turn on GItHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
